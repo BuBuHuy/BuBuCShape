@@ -1,9 +1,0 @@
-c:\users\pc\source\repos\QuanLySV\QuanLySV\bin\Debug\QuanLySV.exe
-c:\users\pc\source\repos\QuanLySV\QuanLySV\bin\Debug\QuanLySV.pdb
-c:\users\pc\source\repos\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csprojResolveAssemblyReference.cache
-c:\users\pc\source\repos\QuanLySV\QuanLySV\obj\Debug\QuanLySV.Form1.resources
-c:\users\pc\source\repos\QuanLySV\QuanLySV\obj\Debug\QuanLySV.Properties.Resources.resources
-c:\users\pc\source\repos\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csproj.GenerateResource.Cache
-c:\users\pc\source\repos\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csproj.CoreCompileInputs.cache
-c:\users\pc\source\repos\QuanLySV\QuanLySV\obj\Debug\QuanLySV.exe
-c:\users\pc\source\repos\QuanLySV\QuanLySV\obj\Debug\QuanLySV.pdb
