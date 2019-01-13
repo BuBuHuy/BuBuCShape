@@ -1,0 +1,9 @@
+c:\users\pc\source\repos\DentalPayMentApp\DentalPayMentApp\bin\Debug\DentalPayMentApp.exe
+c:\users\pc\source\repos\DentalPayMentApp\DentalPayMentApp\bin\Debug\DentalPayMentApp.pdb
+c:\users\pc\source\repos\DentalPayMentApp\DentalPayMentApp\obj\Debug\DentalPayMentApp.csprojResolveAssemblyReference.cache
+c:\users\pc\source\repos\DentalPayMentApp\DentalPayMentApp\obj\Debug\DentalPayMentApp.Form1.resources
+c:\users\pc\source\repos\DentalPayMentApp\DentalPayMentApp\obj\Debug\DentalPayMentApp.Properties.Resources.resources
+c:\users\pc\source\repos\DentalPayMentApp\DentalPayMentApp\obj\Debug\DentalPayMentApp.csproj.GenerateResource.Cache
+c:\users\pc\source\repos\DentalPayMentApp\DentalPayMentApp\obj\Debug\DentalPayMentApp.csproj.CoreCompileInputs.cache
+c:\users\pc\source\repos\DentalPayMentApp\DentalPayMentApp\obj\Debug\DentalPayMentApp.exe
+c:\users\pc\source\repos\DentalPayMentApp\DentalPayMentApp\obj\Debug\DentalPayMentApp.pdb
