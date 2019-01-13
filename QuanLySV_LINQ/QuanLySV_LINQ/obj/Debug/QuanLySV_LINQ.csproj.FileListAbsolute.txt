@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\QuanLySV_LINQ\QuanLySV_LINQ\bin\Debug\QuanLySV_LINQ.exe.config
+C:\Users\PC\source\repos\QuanLySV_LINQ\QuanLySV_LINQ\bin\Debug\QuanLySV_LINQ.exe
+C:\Users\PC\source\repos\QuanLySV_LINQ\QuanLySV_LINQ\bin\Debug\QuanLySV_LINQ.pdb
+C:\Users\PC\source\repos\QuanLySV_LINQ\QuanLySV_LINQ\obj\Debug\QuanLySV_LINQ.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\QuanLySV_LINQ\QuanLySV_LINQ\obj\Debug\QuanLySV_LINQ.Form1.resources
+C:\Users\PC\source\repos\QuanLySV_LINQ\QuanLySV_LINQ\obj\Debug\QuanLySV_LINQ.Properties.Resources.resources
+C:\Users\PC\source\repos\QuanLySV_LINQ\QuanLySV_LINQ\obj\Debug\QuanLySV_LINQ.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\QuanLySV_LINQ\QuanLySV_LINQ\obj\Debug\QuanLySV_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\QuanLySV_LINQ\QuanLySV_LINQ\obj\Debug\QuanLySV_LINQ.exe
+C:\Users\PC\source\repos\QuanLySV_LINQ\QuanLySV_LINQ\obj\Debug\QuanLySV_LINQ.pdb

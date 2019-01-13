@@ -1,0 +1,9 @@
+c:\users\pc\source\repos\QuanLySV_DataConnection\QuanLySV_DataConnection\obj\Debug\QuanLySV_DataConnection.csprojResolveAssemblyReference.cache
+c:\users\pc\source\repos\QuanLySV_DataConnection\QuanLySV_DataConnection\obj\Debug\QuanLySV_DataConnection.Properties.Resources.resources
+c:\users\pc\source\repos\QuanLySV_DataConnection\QuanLySV_DataConnection\obj\Debug\QuanLySV_DataConnection.SVForm.resources
+c:\users\pc\source\repos\QuanLySV_DataConnection\QuanLySV_DataConnection\obj\Debug\QuanLySV_DataConnection.csproj.GenerateResource.Cache
+c:\users\pc\source\repos\QuanLySV_DataConnection\QuanLySV_DataConnection\obj\Debug\QuanLySV_DataConnection.csproj.CoreCompileInputs.cache
+c:\users\pc\source\repos\QuanLySV_DataConnection\QuanLySV_DataConnection\bin\Debug\QuanLySV_DataConnection.exe
+c:\users\pc\source\repos\QuanLySV_DataConnection\QuanLySV_DataConnection\bin\Debug\QuanLySV_DataConnection.pdb
+c:\users\pc\source\repos\QuanLySV_DataConnection\QuanLySV_DataConnection\obj\Debug\QuanLySV_DataConnection.exe
+c:\users\pc\source\repos\QuanLySV_DataConnection\QuanLySV_DataConnection\obj\Debug\QuanLySV_DataConnection.pdb

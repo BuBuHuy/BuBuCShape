@@ -1,0 +1,11 @@
+c:\users\pc\source\repos\QuanLySV_DataConnect_Optimal\QuanLySV_DataConnect_Optimal\obj\Debug\QuanLySV_DataConnect_Optimal.csprojResolveAssemblyReference.cache
+c:\users\pc\source\repos\QuanLySV_DataConnect_Optimal\QuanLySV_DataConnect_Optimal\obj\Debug\QuanLySV_DataConnect_Optimal.Form1.resources
+c:\users\pc\source\repos\QuanLySV_DataConnect_Optimal\QuanLySV_DataConnect_Optimal\obj\Debug\QuanLySV_DataConnect_Optimal.Properties.Resources.resources
+c:\users\pc\source\repos\QuanLySV_DataConnect_Optimal\QuanLySV_DataConnect_Optimal\obj\Debug\QuanLySV_DataConnect_Optimal.csproj.GenerateResource.Cache
+c:\users\pc\source\repos\QuanLySV_DataConnect_Optimal\QuanLySV_DataConnect_Optimal\obj\Debug\QuanLySV_DataConnect_Optimal.csproj.CoreCompileInputs.cache
+c:\users\pc\source\repos\QuanLySV_DataConnect_Optimal\QuanLySV_DataConnect_Optimal\bin\Debug\QuanLySV_DataConnect_Optimal.exe
+c:\users\pc\source\repos\QuanLySV_DataConnect_Optimal\QuanLySV_DataConnect_Optimal\bin\Debug\QuanLySV_DataConnect_Optimal.pdb
+c:\users\pc\source\repos\QuanLySV_DataConnect_Optimal\QuanLySV_DataConnect_Optimal\obj\Debug\QuanLySV_DataConnect_Optimal.exe
+c:\users\pc\source\repos\QuanLySV_DataConnect_Optimal\QuanLySV_DataConnect_Optimal\obj\Debug\QuanLySV_DataConnect_Optimal.pdb
+C:\Users\PC\source\repos\QuanLySV_DataConnect_Optimal\QuanLySV_DataConnect_Optimal\obj\Debug\QuanLySV_DataConnect_Optimal.Form2.resources
+C:\Users\PC\source\repos\QuanLySV_DataConnect_Optimal\QuanLySV_DataConnect_Optimal\obj\Debug\QuanLySV_DataConnect_Optimal.BubuScarling.resources

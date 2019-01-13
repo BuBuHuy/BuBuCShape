@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QLSV_LINQ">
+  <DataContextMoniker Name="/QLSV_LINQDataContext" />
+  <nestedChildShapes>
+    <classShape Id="2c1e100b-96d2-4a21-a463-44f4d355af1c" absoluteBounds="2.25, 1.25, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/QLSV_LINQDataContext/SinhVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b384e360-50f7-476e-8ea6-974f5a339025" absoluteBounds="2.265, 1.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
