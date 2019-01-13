@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\CsharpBasic\CsharpBasic\bin\Debug\CsharpBasic.exe
+C:\Users\PC\source\repos\CsharpBasic\CsharpBasic\bin\Debug\CsharpBasic.pdb
+C:\Users\PC\source\repos\CsharpBasic\CsharpBasic\obj\Debug\CsharpBasic.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\CsharpBasic\CsharpBasic\obj\Debug\CsharpBasic.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CsharpBasic\CsharpBasic\obj\Debug\CsharpBasic.exe
+C:\Users\PC\source\repos\CsharpBasic\CsharpBasic\obj\Debug\CsharpBasic.pdb

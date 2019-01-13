@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\SecurityPanel\SecurityPanel\bin\Debug\SecurityPanel.exe
+C:\Users\PC\source\repos\SecurityPanel\SecurityPanel\bin\Debug\SecurityPanel.pdb
+C:\Users\PC\source\repos\SecurityPanel\SecurityPanel\obj\Debug\SecurityPanel.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\SecurityPanel\SecurityPanel\obj\Debug\SecurityPanel.Form1.resources
+C:\Users\PC\source\repos\SecurityPanel\SecurityPanel\obj\Debug\SecurityPanel.Properties.Resources.resources
+C:\Users\PC\source\repos\SecurityPanel\SecurityPanel\obj\Debug\SecurityPanel.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\SecurityPanel\SecurityPanel\obj\Debug\SecurityPanel.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SecurityPanel\SecurityPanel\obj\Debug\SecurityPanel.exe
+C:\Users\PC\source\repos\SecurityPanel\SecurityPanel\obj\Debug\SecurityPanel.pdb
