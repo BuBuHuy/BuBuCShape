@@ -1,0 +1,15 @@
+c:\users\pc\source\repos\QuanLyHocPhan\QuanLyHocPhan\obj\Debug\QuanLyHocPhan.csprojResolveAssemblyReference.cache
+c:\users\pc\source\repos\QuanLyHocPhan\QuanLyHocPhan\obj\Debug\QuanLyHocPhan.Form1.resources
+c:\users\pc\source\repos\QuanLyHocPhan\QuanLyHocPhan\obj\Debug\QuanLyHocPhan.Properties.Resources.resources
+c:\users\pc\source\repos\QuanLyHocPhan\QuanLyHocPhan\obj\Debug\QuanLyHocPhan.csproj.GenerateResource.Cache
+c:\users\pc\source\repos\QuanLyHocPhan\QuanLyHocPhan\obj\Debug\QuanLyHocPhan.csproj.CoreCompileInputs.cache
+c:\users\pc\source\repos\QuanLyHocPhan\QuanLyHocPhan\bin\Debug\QuanLyHocPhan.exe.config
+c:\users\pc\source\repos\QuanLyHocPhan\QuanLyHocPhan\bin\Debug\QuanLyHocPhan.exe
+c:\users\pc\source\repos\QuanLyHocPhan\QuanLyHocPhan\bin\Debug\QuanLyHocPhan.pdb
+c:\users\pc\source\repos\QuanLyHocPhan\QuanLyHocPhan\bin\Debug\EntityFramework.dll
+c:\users\pc\source\repos\QuanLyHocPhan\QuanLyHocPhan\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pc\source\repos\QuanLyHocPhan\QuanLyHocPhan\bin\Debug\EntityFramework.xml
+c:\users\pc\source\repos\QuanLyHocPhan\QuanLyHocPhan\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pc\source\repos\QuanLyHocPhan\QuanLyHocPhan\obj\Debug\QuanLyHocPhan.exe
+c:\users\pc\source\repos\QuanLyHocPhan\QuanLyHocPhan\obj\Debug\QuanLyHocPhan.pdb
+c:\users\pc\source\repos\QuanLyHocPhan\QuanLyHocPhan\obj\Debug\QuanLyHocPhan.AddGV_HP.resources
