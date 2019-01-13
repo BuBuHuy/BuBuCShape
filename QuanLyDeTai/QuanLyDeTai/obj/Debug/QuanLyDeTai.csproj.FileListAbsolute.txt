@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\QuanLyDeTai\QuanLyDeTai\bin\Debug\QuanLyDeTai.exe
+C:\Users\PC\source\repos\QuanLyDeTai\QuanLyDeTai\bin\Debug\QuanLyDeTai.pdb
+C:\Users\PC\source\repos\QuanLyDeTai\QuanLyDeTai\obj\Debug\QuanLyDeTai.Form1.resources
+C:\Users\PC\source\repos\QuanLyDeTai\QuanLyDeTai\obj\Debug\QuanLyDeTai.Form2.resources
+C:\Users\PC\source\repos\QuanLyDeTai\QuanLyDeTai\obj\Debug\QuanLyDeTai.Properties.Resources.resources
+C:\Users\PC\source\repos\QuanLyDeTai\QuanLyDeTai\obj\Debug\QuanLyDeTai.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\QuanLyDeTai\QuanLyDeTai\obj\Debug\QuanLyDeTai.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\QuanLyDeTai\QuanLyDeTai\obj\Debug\QuanLyDeTai.exe
+C:\Users\PC\source\repos\QuanLyDeTai\QuanLyDeTai\obj\Debug\QuanLyDeTai.pdb
+C:\Users\PC\source\repos\QuanLyDeTai\QuanLyDeTai\obj\Debug\QuanLyDeTai.csprojResolveAssemblyReference.cache

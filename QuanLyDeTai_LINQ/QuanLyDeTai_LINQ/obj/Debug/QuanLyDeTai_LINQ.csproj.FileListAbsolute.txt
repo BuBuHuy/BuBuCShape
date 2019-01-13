@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\QuanLyDeTai_LINQ\QuanLyDeTai_LINQ\bin\Debug\QuanLyDeTai_LINQ.exe.config
+C:\Users\PC\source\repos\QuanLyDeTai_LINQ\QuanLyDeTai_LINQ\bin\Debug\QuanLyDeTai_LINQ.exe
+C:\Users\PC\source\repos\QuanLyDeTai_LINQ\QuanLyDeTai_LINQ\bin\Debug\QuanLyDeTai_LINQ.pdb
+C:\Users\PC\source\repos\QuanLyDeTai_LINQ\QuanLyDeTai_LINQ\obj\Debug\QuanLyDeTai_LINQ.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\QuanLyDeTai_LINQ\QuanLyDeTai_LINQ\obj\Debug\QuanLyDeTai_LINQ.Form1.resources
+C:\Users\PC\source\repos\QuanLyDeTai_LINQ\QuanLyDeTai_LINQ\obj\Debug\QuanLyDeTai_LINQ.Properties.Resources.resources
+C:\Users\PC\source\repos\QuanLyDeTai_LINQ\QuanLyDeTai_LINQ\obj\Debug\QuanLyDeTai_LINQ.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\QuanLyDeTai_LINQ\QuanLyDeTai_LINQ\obj\Debug\QuanLyDeTai_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\QuanLyDeTai_LINQ\QuanLyDeTai_LINQ\obj\Debug\QuanLyDeTai_LINQ.exe
+C:\Users\PC\source\repos\QuanLyDeTai_LINQ\QuanLyDeTai_LINQ\obj\Debug\QuanLyDeTai_LINQ.pdb

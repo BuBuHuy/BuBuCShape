@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\QuanLyDiemCodeFirst\QuanLyDiemCodeFirst\bin\Debug\QuanLyDiemCodeFirst.exe.config
+C:\Users\PC\source\repos\QuanLyDiemCodeFirst\QuanLyDiemCodeFirst\bin\Debug\QuanLyDiemCodeFirst.exe
+C:\Users\PC\source\repos\QuanLyDiemCodeFirst\QuanLyDiemCodeFirst\bin\Debug\QuanLyDiemCodeFirst.pdb
+C:\Users\PC\source\repos\QuanLyDiemCodeFirst\QuanLyDiemCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\PC\source\repos\QuanLyDiemCodeFirst\QuanLyDiemCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\source\repos\QuanLyDiemCodeFirst\QuanLyDiemCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\PC\source\repos\QuanLyDiemCodeFirst\QuanLyDiemCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\source\repos\QuanLyDiemCodeFirst\QuanLyDiemCodeFirst\obj\Debug\QuanLyDiemCodeFirst.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\QuanLyDiemCodeFirst\QuanLyDiemCodeFirst\obj\Debug\QuanLyDiemCodeFirst.Form1.resources
+C:\Users\PC\source\repos\QuanLyDiemCodeFirst\QuanLyDiemCodeFirst\obj\Debug\QuanLyDiemCodeFirst.Properties.Resources.resources
+C:\Users\PC\source\repos\QuanLyDiemCodeFirst\QuanLyDiemCodeFirst\obj\Debug\QuanLyDiemCodeFirst.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\QuanLyDiemCodeFirst\QuanLyDiemCodeFirst\obj\Debug\QuanLyDiemCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\QuanLyDiemCodeFirst\QuanLyDiemCodeFirst\obj\Debug\QuanLyDiemCodeFirst.exe
+C:\Users\PC\source\repos\QuanLyDiemCodeFirst\QuanLyDiemCodeFirst\obj\Debug\QuanLyDiemCodeFirst.pdb

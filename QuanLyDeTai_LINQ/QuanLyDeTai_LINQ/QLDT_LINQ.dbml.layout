@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QLDT_LINQ">
+  <DataContextMoniker Name="/QLDT_LINQDataContext" />
+  <nestedChildShapes>
+    <classShape Id="2a11b646-5ce1-4c00-9313-0c960d385fb8" absoluteBounds="0.75, 1.25, 2, 1.1939925130208338">
+      <DataClassMoniker Name="/QLDT_LINQDataContext/CapDeTai" />
+      <nestedChildShapes>
+        <elementListCompartment Id="abe9952b-cc9b-4334-814b-8fea2b94bba1" absoluteBounds="0.765, 1.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="48ee1572-2215-4828-b054-d835c18b6700" absoluteBounds="4.625, 1, 2, 1.9631982421874998">
+      <DataClassMoniker Name="/QLDT_LINQDataContext/DeTai" />
+      <nestedChildShapes>
+        <elementListCompartment Id="00f572f8-1b35-48c1-830b-eb11d19790c5" absoluteBounds="4.6400000000000006, 1.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.84699625651042); (4.625 : 1.84699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLDT_LINQDataContext/CapDeTai/CapDeTai_DeTai" />
+      <nodes>
+        <classShapeMoniker Id="2a11b646-5ce1-4c00-9313-0c960d385fb8" />
+        <classShapeMoniker Id="48ee1572-2215-4828-b054-d835c18b6700" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
