@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\3Layers\3Layers\bin\Debug\3Layers.exe
+C:\Users\PC\source\repos\3Layers\3Layers\bin\Debug\3Layers.pdb
+C:\Users\PC\source\repos\3Layers\3Layers\obj\Debug\3Layers.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\3Layers\3Layers\obj\Debug\_3Layers.Form1.resources
+C:\Users\PC\source\repos\3Layers\3Layers\obj\Debug\_3Layers.Properties.Resources.resources
+C:\Users\PC\source\repos\3Layers\3Layers\obj\Debug\3Layers.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\3Layers\3Layers\obj\Debug\3Layers.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\3Layers\3Layers\obj\Debug\3Layers.exe
+C:\Users\PC\source\repos\3Layers\3Layers\obj\Debug\3Layers.pdb
